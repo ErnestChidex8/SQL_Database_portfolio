@@ -15,5 +15,3 @@ CREATE TABLE sales (
     sale_date DATE,
     FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
-# SQL_Database_portfolio
-This repo contains SQL queries and Analytics.
